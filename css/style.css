@@ -117,3 +117,12 @@ footer {
     height: 100%;
     object-fit: cover;  /* Crop otomatis */
 }
+
+.identity {
+    font-size: 14px;
+    color: #e5e7eb;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+}
+
